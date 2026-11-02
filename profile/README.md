@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://images4.imgbox.com/24/0c/2hkLxF6N_o.gif" width="600">
+</p>
+
 # Welcome
 This is the **Spearmint Team** organization page, the people behind *Funkin': Spearmint*. The engine is still in its **early public stages**, meaning that the only person properly maintaining it is the owner. Because of this, please be patient when reporting issues and suggesting features.
 
